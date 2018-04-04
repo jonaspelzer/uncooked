@@ -23,7 +23,3 @@ If you want to reset to browser defaults, simply deactivate Apply Theme Option S
 
 #### Custom font
 If you want to use a custom font, choose one from [Google Fonts](http://fonts.google.com). If the name consists of one word only, type the name into the fields *Google Web Font Name* and *Google Web Font Name with Pluses*. If the font name consists of multiple words, type the name into the field *Google Web Font Name*, e.g. *IBM Plex Sans Condensed* and the same name with pluses into the field *Google Web Font Name with Pluses*, e.g. *IBM+Plex+Sans+Condensed*.
-
-### Examples
-
-![example stylings for uncooked theme](http://jonaspelzer.com/static/images/uncooked-styling.gif)
