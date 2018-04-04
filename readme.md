@@ -6,7 +6,7 @@ An unstyled Tumblr theme which becomes less unstyled when you use the theme opti
 ## Installation
 Option 1: Install via [Tumblr Theme Directory](https://www.tumblr.com/theme/40883).
 
-Option 2: Go to your Tumblr blog's customization options, choose "Edit HTML" and replace the whole content this theme's HTML code.
+Option 2: Go to your Tumblr blog's customization options, choose "Edit HTML" and replace the whole content with this theme's HTML code.
 
 ## Styling Options
 Uncooked is unstyled by default, which means it uses the browser default styles.
